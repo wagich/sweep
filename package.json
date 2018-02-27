@@ -1,0 +1,24 @@
+{
+	"name": "sweep",
+	"version": "1.3.0",
+	"description": "A JavaScript library for smoother color transitions",
+	"main": "bin/sweep.min.js",
+	"repository": "https://github.com/wagich/sweep.git",
+	"author": "rileyjshaw <i@rileyjshaw.com>",
+  "homepage": "http://rileyjshaw.com/sweep/",
+	"license": "MIT",
+	"keywords": [
+		"HSL",
+		"RGB",
+		"HUSL",
+		"hue",
+		"angle",
+		"transition",
+		"animation",
+		"spectrum",
+		"color"
+  ],
+  "dependencies": {
+    "hsluv": "0.0.2"
+  }
+}
